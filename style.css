@@ -1,0 +1,43 @@
+p {
+  font-family: Helvetica;
+    color: #0000ff ;
+}
+
+th{
+  font-family: Helvetica;
+  color: white;
+}
+
+td{
+  font-family: Helvetica;
+}
+
+/* Additional CSS rules */
+body {
+  background-color: #e6eeff;
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size: 32px;
+  color: #000066;
+}
+
+.text {
+    font-family: Helvetica;
+  color: #0000ff;
+}
+
+#RBC {
+  width: 300px;
+  height: auto;
+
+}
+
+@media only screen and (max-width: 400px) {
+
+
+
+
+
+}
